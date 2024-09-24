@@ -42,19 +42,19 @@ ApplicationWindow {
 
         TabImageButton {
             icon: "./images/ic_contacts_48px.svg"
-            text: "CONTACTS"
+            text: "CONTACTS Huongpham4"
             font.pixelSize: 30
         }
 
         TabImageButton {
             icon: "./images/ic_schedule_48px.svg"
-            text: "RECENTS"
+            text: "RECENTS Huongpham4"
             font.pixelSize: 30
         }
 
         TabImageButton {
             icon: "./images/ic_dialpad_48px.svg"
-            text: "DIALPAD"
+            text: "DIALPAD Huongpham4"
             font.pixelSize: 30
         }
 
