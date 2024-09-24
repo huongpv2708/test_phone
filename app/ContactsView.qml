@@ -54,7 +54,7 @@ Item {
             Layout.preferredHeight: 75
             Layout.alignment: Qt.AlignHCenter
             id: control
-            text: "Sync Contacts"
+            text: "SYNC CONTACTS Huongpham4"
             font.pixelSize: 50
             z: 1
 
